@@ -13,4 +13,4 @@ This dataset contains information about the top YouTube channels as of may 2019.
 | video view    | numeric  | The total number of views across all videos    | 196000000000       |
 | video count   | integer  | The total number of videos uploaded            | 17317              |
 | category      | factor   | The primary content category of the channel    | "Music"            |
-| started       | date     | The year the YouTube channel was created       | 2006               |
+| started       | integer     | The year the YouTube channel was created       | 2006               |
